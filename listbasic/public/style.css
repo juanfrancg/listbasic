@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.prin{
+	list-style-type:circle;
+}
+.lugar{
+	list-style-type: upper-roman;
+}
